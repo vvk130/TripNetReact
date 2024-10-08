@@ -1,12 +1,12 @@
-import './App.css'
+import "./App.css";
+import MapComp from "./Components/MapComp";
 
 function App() {
-
   return (
     <>
-      <p>Hello!</p>
+      <MapComp />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
